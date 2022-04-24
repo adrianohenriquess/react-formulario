@@ -61,6 +61,7 @@ button:focus {
   margin-top: 00.25rem;
   font-size: 0.85rem;
   color: #dc3545;
+  margin-bottom: 10px;
 }
 
 .is-invalid {
